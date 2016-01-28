@@ -8,5 +8,5 @@ setup(
         license='MIT',
         author='Calem Bendell',
         author_email='calem.j.bendell@gmail.com',
-        description=''
+        description='', requires=['numpy', 'pandas', 'scipy']
 )
